@@ -13,6 +13,8 @@
 
 ### Split image
 
+- 画像サイズの関係で`README`上で分割の様子がわかりにくいことになっていることをご了承ください。
+
 | ![01](./images/splitted_sample_background_0_0.png) | ![02](./images/splitted_sample_background_0_1.png)| ![03](./images/splitted_sample_background_0_2.png)|
 | ![11](./images/splitted_sample_background_1_0.png) | ![12](./images/splitted_sample_background_1_1.png)| ![13](./images/splitted_sample_background_1_2.png)|
 | ![21](./images/splitted_sample_background_2_0.png) | ![22](./images/splitted_sample_background_2_1.png)| ![23](./images/splitted_sample_background_2_2.png)|
